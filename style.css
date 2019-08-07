@@ -1,0 +1,9 @@
+.gradient{
+  background-image: linear-gradient(to bottom right, red, yellow);
+}
+.font-small {
+  font-size: 10px;
+}
+.text-margin {
+  margin-top: -10px;
+}
