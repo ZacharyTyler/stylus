@@ -7,3 +7,22 @@
 .text-margin {
   margin-top: -10px;
 }
+#textbox {
+  flex: 0 0 auto;
+  width: 150px;
+  height: 25px;
+}
+.button {
+  margin-left: 4px;
+  width: 70px;
+  height: 25px;
+}
+.textbox-margin {
+  text-align: center;
+}
+.inline {
+  display: inline-block;
+}
+.bg-black {
+  background-color: black;
+}
